@@ -1,16 +1,36 @@
-## Hi there 👋
+🚀 Frontend Developer Portfolio
+👤 Shaxsiy ma'lumotlar
+Ism: Yahyo Abdukarimov
 
-<!--
-**abdukarimovyahyo7-web/abdukarimovyahyo7-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tug'ilgan yili: 2012-yil
 
-Here are some ideas to get you started:
+Yo'nalishi: Junior Frontend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ta'lim: Junior IT Academy (Online)
+
+🛠 Texnik ko'nikmalar
+Men zamonaviy va adaptiv veb-saytlar yaratish uchun quyidagi texnologiyalardan foydalanaman:
+
+HTML5: Semantik va qulay struktura.
+
+CSS3: Zamonaviy dizayn va animatsiyalar.
+
+Bootstrap: Mobil qurilmalar uchun tezkor va moslashuvchan (responsive) interfeyslar.
+
+Git & GitHub: Versiyalarni boshqarish va jamoaviy ishlash asoslari.
+
+📊 Tajriba
+Junior IT Academy: 2 oylik intensiv o‘rganish va amaliy loyihalar ustida ishlash.
+
+Loyiha jarayonlari: Figma dizaynlarini kodga o'tkazish, Bootstrap kutubxonasi bilan ishlash.
+
+📂 Loyihalar
+Mening barcha kodlarim va o'quv jarayonidagi ishlarimni GitHub sahifamda kuzatishingiz mumkin:
+👉 github.com/abdukarimovyahyo7-web
+
+📞 Aloqa
+Agar sizga zamonaviy veb-sayt kerak bo'lsa yoki hamkorlik qilmoqchi bo'lsangiz, men bilan bog'laning:
+
+Telegram: @yahyo_abdukarimov
+
+GitHub: abdukarimovyahyo7-web
