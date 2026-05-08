@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there,I'm Yahyo Abdukarimov
+<p>Front-end web developer</p>
 <!--
 **abdukarimovyahyo7-web/abdukarimovyahyo7-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
