@@ -5,6 +5,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Junior+Frontend+Developer+💻;Open+to+Work+🚀;Building+modern+web+experiences+🌐;Always+learning%2C+always+growing+📚)](https://git.io/typing-svg)
 
+<img src="https://github.com/umidjon3455/umidjon3455/blob/main/BB092-thumbnail.gif?raw=true"/>
+
 ### 💻 Junior Frontend Developer | Uzbekistan 🇺🇿
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-yahyo--portfolio.netlify.app-4CAF50?style=for-the-badge)](https://yahyo-portfolio.netlify.app/)
@@ -60,7 +62,7 @@ Hello! I'm **Yahyo Abdukarimov** — a Junior Frontend Developer from Uzbekistan
 ```
 📍 Junior IT Academy
    └── 📖 Frontend Development Course
-       ├── 📅 2024 — Present
+       ├── 📅 2026 — Present
        ├── 🎯 Learning the fundamentals of web technologies
        ├── 💼 Working on real-world projects
        └── 🤝 Gaining experience in a collaborative team environment
@@ -68,27 +70,7 @@ Hello! I'm **Yahyo Abdukarimov** — a Junior Frontend Developer from Uzbekistan
 
 ---
 
-## 🚀 Projects
 
-### 👟 [NIKE](https://github.com/abdukarimovyahyo7-web)
-> A modern landing page built for Nike products
-- 🎨 Clean and responsive design
-- 📱 Fully mobile-friendly layout
-
-### 🍔 [VOXEFOOD](https://github.com/abdukarimovyahyo7-web)
-> A food platform featuring discounted combo deals
-- 💰 Discounted price combos
-- 🛒 User-friendly ordering interface
-
-### 📺 [VOXETV](https://github.com/abdukarimovyahyo7-web)
-> A web platform UI project
-- 🖥️ Modern UI/UX design
-- ⚡ Fast and smooth user experience
-
-### 🎵 [VOXEMUSIC](https://github.com/abdukarimovyahyo7-web)
-> A music platform featuring popular Uzbek artists
-- 🎶 Collection of Uzbekistan's most famous musicians
-- 🎧 Clean and intuitive music streaming interface
 
 ---
 
@@ -105,17 +87,6 @@ Hello! I'm **Yahyo Abdukarimov** — a Junior Frontend Developer from Uzbekistan
 </div>
 
 ---
-
-## 📬 Get in Touch
-
-<div align="center">
-
-| Platform | Link |
-|----------|------|
-| 🌐 Portfolio | [yahyo-portfolio.netlify.app](https://yahyo-portfolio.netlify.app/) |
-| 💻 GitHub | [abdukarimovyahyo7-web](https://github.com/abdukarimovyahyo7-web) |
-| ✈️ Telegram | [@yahyo_abdukarimov](https://t.me/@yahyo_abdukarimov) |
-| 📧 Email | [abdukarimovyahyo7@gmail.com](mailto:abdukarimovyahyo7@gmail.com) |
 
 </div>
 
