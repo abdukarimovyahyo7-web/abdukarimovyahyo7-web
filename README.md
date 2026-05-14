@@ -1,4 +1,5 @@
 <div align="center">
+<img src="https://i.postimg.cc/Y2XBLBHy/Snimok-ekrana-2026-05-14-204659.png"/>
 
 # 👋 Hi there, I'm Yahyo Abdukarimov!
 
