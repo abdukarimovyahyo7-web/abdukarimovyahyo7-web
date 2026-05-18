@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://i.postimg.cc/Y2XBLBHy/Snimok-ekrana-2026-05-14-204659.png"/>
+<img src="https://i.postimg.cc/59XdxD4N/Snimok-ekrana-2026-05-18-113410.png"/>
 
 # 👋 Hi there, I'm Yahyo Abdukarimov!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Junior+Frontend+Developer+💻;Open+to+Work+🚀;Building+modern+web+experiences+🌐;Always+learning%2C+always+growing+📚)](https://git.io/typing-svg)
 
 
-### 💻 Junior Frontend Developer | Uzbekistan 🇺🇿
+### 💻 Midle Frontend Developer | Uzbekistan 🇺🇿
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-yahyo--portfolio.netlify.app-4CAF50?style=for-the-badge)](https://yahyo-portfolio.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-abdukarimovyahyo7--web-181717?style=for-the-badge&logo=github)](https://github.com/abdukarimovyahyo7-web)
