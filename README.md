@@ -3,7 +3,7 @@
 
 # 👋 Hi there, I'm Yahyo Abdukarimov!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Junior+Frontend+Developer+💻;Open+to+Work+🚀;Building+modern+web+experiences+🌐;Always+learning%2C+always+growing+📚)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Middle+Frontend+Developer+💻;Open+to+Work+🚀;Building+modern+web+experiences+🌐;Always+learning%2C+always+growing+📚)](https://git.io/typing-svg)
 
 
 ### 💻 Midle Frontend Developer | Uzbekistan 🇺🇿
