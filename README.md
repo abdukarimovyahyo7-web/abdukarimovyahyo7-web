@@ -24,7 +24,7 @@
 
 > *"Building modern and user-friendly websites is my passion!"*
 
-Hello! I'm **Yahyo Abdukarimov** — a Junior Frontend Developer from Uzbekistan. I'm currently studying at **Junior IT Academy**, actively growing my skills through real-world projects and hands-on experience.
+Hello! I'm **Yahyo Abdukarimov** — a Midle Frontend Developer from Uzbekistan. I'm currently studying at **Junior IT Academy**, actively growing my skills through real-world projects and hands-on experience.
 
 - 🎓 Studying **Frontend Development** at Junior IT Academy (2026 — Present)
 - 🌱 Currently deepening my knowledge in **JavaScript** and **React**
